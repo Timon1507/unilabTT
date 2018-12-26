@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <config>
     <modules>
-        <TT_Shipping>
+        <TT_StorePickup>
             <active>true</active>
             <codePool>local</codePool>
             <depends>
                 <Mage_Shipping />
             </depends>
-        </TT_Shipping>
+        </TT_StorePickup>
     </modules>
 </config>
